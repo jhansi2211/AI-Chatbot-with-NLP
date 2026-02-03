@@ -29,3 +29,7 @@ Next, cosine similarity is used to compare the user’s input vector with all th
 The chatbot runs in a loop, continuously taking user input and providing responses until the user types “bye,” “exit,” or “quit,” which stops the program. This makes the chatbot interactive and capable of having a simple conversation with the user.
 
 Through this project, I learned how NLP techniques are applied in real-world applications like chatbots. I understood the importance of text preprocessing, vectorization, and similarity measurement. I also improved my Python programming skills and gained practical experience in building an AI-based system from scratch. This project helped me understand the basic working of intelligent systems and how human language can be processed by machines in a structured way.
+
+output:
+
+<img width="893" height="243" alt="Image" src="https://github.com/user-attachments/assets/fb0008b3-8b0f-467d-a429-5632655c9c68" />
