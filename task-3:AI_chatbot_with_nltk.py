@@ -15,6 +15,8 @@ knowledge_base = {
     "what is your name": "I am an NLP-based chatbot built using Python.",
     "what can you do": "I can answer questions using Natural Language Processing.",
     "what is python": "Python is a programming language widely used in AI and software development.",
+    "what python works": "python works by interpreting code line by line and has extensive libraries for various applications.",
+    "where the python used": "python is used in web development, data science, artificial intlligence(ai), and more.",
     "what is ai": "AI stands for Artificial Intelligence, which enables machines to learn and think.",
     "bye": "Goodbye! Have a great day!"
 }
